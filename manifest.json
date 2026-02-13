@@ -1,0 +1,13 @@
+{
+  "name": "Absensi Online",
+  "short_name": "Absensi",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "./icons/icon-gold.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icons/icon-gold.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
